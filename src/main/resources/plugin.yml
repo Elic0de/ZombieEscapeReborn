@@ -1,0 +1,4 @@
+name: ZombieEscape
+version: '1.0-SNAPSHOT'
+main: com.github.elic0de.zombieEscape.ZombieEscape
+api-version: '1.21'
